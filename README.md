@@ -9,7 +9,7 @@
 
 <blockquote>
     Não há nada que ensine mais do que se reorganizar depois do fracasso e seguir em frente.
-    <br>Charles Bukowski
+    <br>- Charles Bukowski
 </blockquote>
 
 <br/>  
