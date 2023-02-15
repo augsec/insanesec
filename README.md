@@ -7,13 +7,9 @@
 </pre>
 <br/>  
 
-<blockquote>"Eu sou como o velho barco que guarda no seu bojo
-<br>O eterno ruído do mar batendo
-<br>No entanto, como está longe o mar e como é dura a terra sob mim...
-<br>Felizes são os pássaros que chegam mais cedo que eu à suprema fraqueza
-<br>E voando caem, felizes e abençoados, nos parques onde a primavera é eterna."
-<br>
-<br>O Incriado - Vinícius de Moraes
+<blockquote>
+    Não há nada que ensine mais do que se reorganizar depois do fracasso e seguir em frente.
+    <br>Charles Bukowski
 </blockquote>
 
 <br/>  
