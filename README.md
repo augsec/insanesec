@@ -15,7 +15,7 @@
 <br/>  
 
 
-<a href="https://twitter.com/augfsx" target="_blank">
+<a href="https://twitter.com/augfsx" target="__blank">
 <img src="https://img.shields.io/badge/twitter-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=blue" style="margin-bottom: 5px;" />
 </a>
 
