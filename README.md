@@ -1,15 +1,5 @@
-<pre>
-    ██     ██ ███████ ██       ██████  ██████  ███    ███ ███████ 
-    ██     ██ ██      ██      ██      ██    ██ ████  ████ ██      
-    ██  █  ██ █████   ██      ██      ██    ██ ██ ████ ██ █████   
-    ██ ███ ██ ██      ██      ██      ██    ██ ██  ██  ██ ██      
-     ███ ███  ███████ ███████  ██████  ██████  ██      ██ ███████
-</pre>
-<br/>  
-
 <blockquote>
-    Não há nada que ensine mais do que se reorganizar depois do fracasso e seguir em frente.
-    <br>- Charles Bukowski
+    Take a deep breath and be the last to fall, this is reality
 </blockquote>
 
 <br/>  
